@@ -1,7 +1,7 @@
 # JoshuaFrederick.github.io
 Completion Challenge Due Monday June 24th  
 ---
-[Github](https://github.com/JoshuaFrederick)  
+[GitHub](https://github.com/JoshuaFrederick)  
 ---
 [LinkedIn](https://www.linkedin.com/in/joshua-frederick)  
 ---
