@@ -5,4 +5,4 @@ Completion Challenge Due Monday June 24th
 ---
 [LinkedIn](https://www.linkedin.com/in/joshua-frederick)  
 ---
-[StackOverflow](https://stackoverflow.com/story/joshuafrederick)  
+[StackOverflow](https://stackoverflow.com/users/11720659/joshuafrederick)  
